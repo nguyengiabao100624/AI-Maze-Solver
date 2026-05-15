@@ -1,0 +1,118 @@
+{
+  "maze_size": [
+    5,
+    5
+  ],
+  "cell_size": 0.5,
+  "half_x": 1.25,
+  "half_y": 1.25,
+  "start": {
+    "x": -1.5,
+    "y": -0.0,
+    "c": 0
+  },
+  "goal": {
+    "x": 1.5,
+    "y": -0.0,
+    "c": 4
+  },
+  "bfs_grid": [
+    [
+      14,
+      15,
+      14,
+      13,
+      12
+    ],
+    [
+      13,
+      12,
+      11,
+      10,
+      11
+    ],
+    [
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    [
+      3,
+      4,
+      7,
+      8,
+      9
+    ],
+    [
+      2,
+      1,
+      0,
+      1,
+      2
+    ]
+  ],
+  "h_walls": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "v_walls": [
+    [
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false
+    ]
+  ]
+}

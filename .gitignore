@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# AI Models & Logs (Thường rất nặng, không nên đẩy lên GitHub)
+*.npy
+*.npz
+*.csv
+*.png
+*.log
+
+# Gazebo & Simulation
+*.sdf
+*.world
+# Lưu ý: Nếu bạn muốn giữ file maze_world.sdf thì hãy xóa dòng trên. 
+# Nhưng thông thường các file tạo ra trong quá trình chạy simulator không cần lưu.
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+
+# Temporary files
+scratch/
