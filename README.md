@@ -14,9 +14,9 @@ An autonomous robotics framework that evolves a **swarm of 16 robots** to solve 
 ## 📸 Demo
 
 <p align="center">
-  <img src="assets/current_maze_preview.png" width="420" alt="BFS Maze Heatmap"/>
+  <img src="https://raw.githubusercontent.com/nguyengiabao100624/AI-Maze-Solver/main/assets/current_maze_preview.png" width="420" alt="BFS Maze Heatmap"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/fitness_chart.png" width="420" alt="Fitness Evolution Chart"/>
+  <img src="https://raw.githubusercontent.com/nguyengiabao100624/AI-Maze-Solver/main/assets/fitness_chart.png" width="420" alt="Fitness Evolution Chart"/>
 </p>
 <p align="center">
   <em>Left: Procedurally generated maze with BFS distance heatmap &nbsp;|&nbsp; Right: Evolutionary fitness progress over 200+ generations</em>
