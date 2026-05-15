@@ -7,8 +7,11 @@
 
 An advanced autonomous robotics framework that trains a swarm of robots to solve procedurally generated 5x5 mazes using **Neuroevolution (Genetic Algorithms + RNN)** within a high-fidelity **Gazebo** simulation.
 
-![Current Maze Preview](current_maze_preview.png)
-*(Note: Please ensure this image is uploaded to your repo)*
+![Current Maze Preview](assets/current_maze_preview.png)
+
+## 📈 Training Results
+![Fitness Chart](assets/fitness_chart.png)
+*(Evolutionary progress showing best vs. average fitness over generations)*
 
 ## 🚀 Overview
 
